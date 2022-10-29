@@ -1,7 +1,6 @@
-# Credit-Prediction-to-Default
-Credit Risk Prediction - Classifying Customers to assess their Probability to Default
 
-# Credit Risk Prediction | Classifying Customers to assess their Probability to Default
+# Credit Risk Prediction
+## Classifying Customers to assess their Probability to Default
 
 ### Context
 Credit risk is defined as the probability of a loss when the borrower can not pay back a loan or the borrowed sum. If customers don’t repay their credit, the lender loses money. And, if this loss happens on a large enough scale, it’s impact can be quite huge.
